@@ -1,0 +1,24 @@
+{
+  "name": "first_node",
+  "version": "1.0.0",
+  "description": "Repositório para acompanhamento das aulas de microsserviços piaget ADS 5sem26",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorSilva026/First_Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/IgorSilva026/First_Node/issues"
+  },
+  "homepage": "https://github.com/IgorSilva026/First_Node#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
