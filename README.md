@@ -42,3 +42,15 @@ npm install express
 ```
 
 O `express` sera o framework principal da nossa API REST.
+
+## rodar versão incial
+
+- criar index.js e adicionar o código
+- no terminal rodar o comando: 
+```bash
+node index.js
+```
+- no navegador: 
+```bash
+http://localhost:PORTA/ROTA
+```
